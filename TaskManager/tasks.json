@@ -1,0 +1,87 @@
+[
+  {
+    "Id": 1,
+    "Title": "Buy groceries",
+    "Description": "Milk, Eggs, Bread, Fruits",
+    "DueDate": "2026-01-21T09:00:00",
+    "IsComplete": false,
+    "TaskType": "Personal"
+  },
+  {
+    "Priority": "High",
+    "Id": 2,
+    "Title": "Team meeting",
+    "Description": "Weekly project sync with team",
+    "DueDate": "2026-01-20T11:00:00",
+    "IsComplete": false,
+    "TaskType": "Work"
+  },
+  {
+    "Id": 3,
+    "Title": "Read a book",
+    "Description": "Finish reading \u0027Atomic Habits\u0027",
+    "DueDate": "2026-01-22T20:00:00",
+    "IsComplete": false,
+    "TaskType": "Personal"
+  },
+  {
+    "Priority": "High",
+    "Id": 4,
+    "Title": "Client presentation",
+    "Description": "Prepare slides for client meeting",
+    "DueDate": "2026-01-23T10:00:00",
+    "IsComplete": false,
+    "TaskType": "Work"
+  },
+  {
+    "Id": 5,
+    "Title": "Exercise",
+    "Description": "Morning jogging for 30 minutes",
+    "DueDate": "2026-01-20T06:30:00",
+    "IsComplete": true,
+    "TaskType": "Personal"
+  },
+  {
+    "Priority": "Normal",
+    "Id": 6,
+    "Title": "Submit report",
+    "Description": "Monthly sales report submission",
+    "DueDate": "2026-01-21T17:00:00",
+    "IsComplete": false,
+    "TaskType": "Work"
+  },
+  {
+    "Id": 7,
+    "Title": "Call mom",
+    "Description": "Weekly catch-up call",
+    "DueDate": "2026-01-20T19:00:00",
+    "IsComplete": false,
+    "TaskType": "Personal"
+  },
+  {
+    "Priority": "Normal",
+    "Id": 8,
+    "Title": "Code review",
+    "Description": "Review PRs for the team",
+    "DueDate": "2026-01-21T14:00:00",
+    "IsComplete": false,
+    "TaskType": "Work"
+  },
+  {
+    "Id": 9,
+    "Title": "Meditation",
+    "Description": "Evening meditation session",
+    "DueDate": "2026-01-20T18:30:00",
+    "IsComplete": false,
+    "TaskType": "Personal"
+  },
+  {
+    "Priority": "High",
+    "Id": 10,
+    "Title": "Update website",
+    "Description": "Deploy new updates to company website",
+    "DueDate": "2026-01-22T16:00:00",
+    "IsComplete": false,
+    "TaskType": "Work"
+  }
+]
