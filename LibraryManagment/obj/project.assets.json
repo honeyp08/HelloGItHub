@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honey\\Desktop\\C#\\LibraryManagment\\LibraryManagment.csproj",
+      "projectUniqueName": "C:\\Users\\Honey\\Desktop\\C#\\HelloGItHub\\LibraryManagment\\LibraryManagment.csproj",
       "projectName": "LibraryManagment",
-      "projectPath": "C:\\Users\\Honey\\Desktop\\C#\\LibraryManagment\\LibraryManagment.csproj",
+      "projectPath": "C:\\Users\\Honey\\Desktop\\C#\\HelloGItHub\\LibraryManagment\\LibraryManagment.csproj",
       "packagesPath": "C:\\Users\\Honey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honey\\Desktop\\C#\\LibraryManagment\\obj\\",
+      "outputPath": "C:\\Users\\Honey\\Desktop\\C#\\HelloGItHub\\LibraryManagment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Honey\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,130 @@
+[
+  {
+    "Id": 1,
+    "Title": "C# Programming",
+    "Author": "Microsoft",
+    "Category": "Programming",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  },
+  {
+    "Id": 2,
+    "Title": "JAVA",
+    "Author": "Barry Burd",
+    "Category": "Programming",
+    "TotalCopies": 4,
+    "AvailableCopies": 4
+  },
+  {
+    "Id": 3,
+    "Title": "PYTHON",
+    "Author": "Mark Lutz",
+    "Category": "Programming",
+    "TotalCopies": 6,
+    "AvailableCopies": 6
+  },
+  {
+    "Id": 4,
+    "Title": "Artificial Intelligence (AI)",
+    "Author": "Russell \u0026 Norvig",
+    "Category": "Artificial Intelligence",
+    "TotalCopies": 3,
+    "AvailableCopies": 3
+  },
+  {
+    "Id": 5,
+    "Title": "Cyber Security",
+    "Author": "Nilakshi Jain",
+    "Category": "Cyber Security",
+    "TotalCopies": 4,
+    "AvailableCopies": 4
+  },
+  {
+    "Id": 6,
+    "Title": "Cyber Security",
+    "Author": "Ajay Singh",
+    "Category": "Cyber Security",
+    "TotalCopies": 4,
+    "AvailableCopies": 4
+  },
+  {
+    "Id": 7,
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Category": "Software Engineering",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  },
+  {
+    "Id": 8,
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt \u0026 David Thomas",
+    "Category": "Software Engineering",
+    "TotalCopies": 3,
+    "AvailableCopies": 2
+  },
+  {
+    "Id": 9,
+    "Title": "Head First Java",
+    "Author": "Kathy Sierra \u0026 Bert Bates",
+    "Category": "Programming",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  },
+  {
+    "Id": 10,
+    "Title": "Effective C#",
+    "Author": "Bill Wagner",
+    "Category": "Programming",
+    "TotalCopies": 4,
+    "AvailableCopies": 4
+  },
+  {
+    "Id": 11,
+    "Title": "Python Crash Course",
+    "Author": "Eric Matthes",
+    "Category": "Programming",
+    "TotalCopies": 6,
+    "AvailableCopies": 6
+  },
+  {
+    "Id": 12,
+    "Title": "Machine Learning",
+    "Author": "Tom M. Mitchell",
+    "Category": "Artificial Intelligence",
+    "TotalCopies": 3,
+    "AvailableCopies": 3
+  },
+  {
+    "Id": 13,
+    "Title": "Deep Learning",
+    "Author": "Ian Goodfellow",
+    "Category": "Artificial Intelligence",
+    "TotalCopies": 2,
+    "AvailableCopies": 2
+  },
+  {
+    "Id": 14,
+    "Title": "Introduction to Algorithms",
+    "Author": "Thomas H. Cormen",
+    "Category": "Algorithms",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  },
+  {
+    "Id": 15,
+    "Title": "Network Security Essentials",
+    "Author": "William Stallings",
+    "Category": "Cyber Security",
+    "TotalCopies": 4,
+    "AvailableCopies": 4
+  },
+  {
+    "Id": 16,
+    "Title": "Software Engineering",
+    "Author": "Ian Sommerville",
+    "Category": "Software Engineering",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  }
+]

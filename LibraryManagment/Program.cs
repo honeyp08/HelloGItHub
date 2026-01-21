@@ -1,10 +1,11 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main()
     {
         Library library = new Library();
-        library.LoadBooks();
-
+        library.LoadBooks();   
         library.ShowBookList();
 
         Console.Write("Enter Book ID to view details: ");
@@ -14,7 +15,7 @@
 
         if (book == null)
         {
-            Console.WriteLine(" Invalid Book ID");
+            Console.WriteLine("\n Invalid Book ID");
             return;
         }
 
@@ -24,23 +25,12 @@
         Console.WriteLine("2. Return Book");
         Console.WriteLine("3. Exit");
         Console.Write("Choose option: ");
-
         int choice = int.Parse(Console.ReadLine());
 
-        switch (choice)
-        {
-            case 1:
-                library.PurchaseBook(book);
-                break;
-            case 2:
-                library.ReturnBook(book);
-                break;
-            case 3:
-                return;
-            default:
-                Console.WriteLine("Invalid option");
-                break;
-        }
+        if (choice == 1)
+            library.PurchaseBook(book);
+        else if (choice == 2)
+            library.ReturnBook(book);
 
         library.ShowFinalStatus(book);
     }
